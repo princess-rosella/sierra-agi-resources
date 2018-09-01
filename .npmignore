@@ -1,0 +1,7 @@
+old.c++
+tests
+tests.out
+lib
+lib.tsconfig.json
+bin
+.vscode
